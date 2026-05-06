@@ -2,6 +2,10 @@
 
 A feature-rich browser app for D&D 5e players and Dungeon Masters. Runs entirely in your browser — no installation, no account, no internet required. All data saved locally.
 
+## 🌐 Live App
+
+👉 [Open Chronicle](https://animatroniofry.github.io/chronicle/APP/index.html)
+
 ## Features
 
 - **Character Sheet** — Ability scores, skills, saving throws, HP, AC, death saves, conditions, exhaustion, inspiration, and backstory
