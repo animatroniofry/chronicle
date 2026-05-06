@@ -4,7 +4,7 @@ A feature-rich browser app for D&D 5e players and Dungeon Masters. Runs entirely
 
 ## 🌐 Live App
 
-👉 [Open Chronicle](https://animatroniofry.github.io/chronicle/APP/index.html)
+👉 [Open Chronicle](https://animatroniofry.github.io/chronicle/)
 
 ## Features
 
